@@ -1,0 +1,27 @@
+{
+  "id": "./",
+  "name": "مشهد أدمن — إدارة الاستوديو",
+  "short_name": "مشهد أدمن",
+  "description": "إدارة حسابات وأرصدة استوديو مشهد",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#12131b",
+  "theme_color": "#17182d",
+  "icons": [
+    {
+      "src": "app-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "app-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
